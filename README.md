@@ -60,13 +60,6 @@ I am naturally intrigued about technology, which motivates me to embark on multi
 
 ---
 
-### My WakaTime Stats for this Week!
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
 </p>
